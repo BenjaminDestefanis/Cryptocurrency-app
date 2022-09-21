@@ -9,6 +9,8 @@ import Coins from './Components/Coins';
 import Navbar from './Components/Navbar';
 import Coin from './Routes/Coin'
 
+import './index.css'
+
 function App() {
 
 

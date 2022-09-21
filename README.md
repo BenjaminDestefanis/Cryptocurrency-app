@@ -2,7 +2,7 @@
 
 ## Dependecias
 
-Axios / React-icons / React-Router-Dom@6
+Axios / React-icons / React-Router-Dom@6 / dompurify(Especie de DOM)
 
 
 ## APIs
